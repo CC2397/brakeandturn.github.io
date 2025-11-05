@@ -1,52 +1,42 @@
-# -------------------------------
-# Brake & Turn Compact — GitHub Pages Config
-# -------------------------------
-
 title: "Brake & Turn Compact"
 description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
 
-# Theme
-theme: jekyll-theme-cayman
+# Use the Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
-# URL setup
-url: "https://brakeandturn.github.io"
-baseurl: ""
+url: "https://cc2397.github.io"
+baseurl: "/brakeandturn.github.io"
 
-# Navigation links (appear as tabs on some Jekyll themes)
-# Each item uses the Markdown filename and link text
-nav:
-  - title: "Home"
-    url: /
-  - title: "Full Compact"
-    url: /compact-full
-  - title: "Companion Docs"
-    url: /companions
-  - title: "Feedback"
-    url: /feedback
+# Just the Docs configuration
+just_the_docs:
+  nav_order: 1
+  logo: false
+  footer_content: "Human intent. AI precision. Shared stewardship."
+  color_scheme: light
 
-# Defaults for all pages
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-      license: "CC0 1.0 Universal / Public Domain"
-      footer: "Human intent. AI precision. Shared stewardship."
+# Header navigation links
+aux_links:
+  "Full Compact":
+    - "/brakeandturn.github.io/compact-full"
+  "Companion Docs":
+    - "/brakeandturn.github.io/companions"
+  "Feedback":
+    - "/brakeandturn.github.io/feedback"
 
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
 
-# Exclude build junk
+# Exclude build clutter
 exclude:
-  - README.md
-  - LICENSE
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
+  - README.md
+  - LICENSE
   - .gitignore
