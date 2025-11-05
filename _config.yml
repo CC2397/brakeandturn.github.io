@@ -1,22 +1,20 @@
-# Use Just the Docs via remote theme
-remote_theme: just-the-docs/just-the-docs
+title: "Brake & Turn Compact"
+description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
+
+# Use GitHub Pages remote theme (no Gemfile needed)
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# IMPORTANT: for project pages, set full URL here and leave baseurl blank
-url: "https://cc2397.github.io/brakeandturn.github.io"
-baseurl: ""
+url: "https://cc2397.github.io"
+baseurl: "/brakeandturn.github.io"
 
-# (rest of your config can stay the same)
-title: "Brake & Turn Compact"
-description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
-just_the_docs:
-  nav_order: 1
-  logo: false
-  footer_content: "Human intent. AI precision. Shared stewardship."
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 exclude:
   - Gemfile
   - Gemfile.lock
