@@ -1,37 +1,22 @@
-title: "Brake & Turn Compact"
-description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
-
-# Use the Just the Docs theme
+# Use Just the Docs via remote theme
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-url: "https://cc2397.github.io"
-baseurl: "/brakeandturn.github.io"
+# IMPORTANT: for project pages, set full URL here and leave baseurl blank
+url: "https://cc2397.github.io/brakeandturn.github.io"
+baseurl: ""
 
-# Just the Docs configuration
+# (rest of your config can stay the same)
+title: "Brake & Turn Compact"
+description: "Anonymous public-domain initiative for ethical, decentralized, life-affirming AI."
 just_the_docs:
   nav_order: 1
   logo: false
   footer_content: "Human intent. AI precision. Shared stewardship."
-  color_scheme: light
-
-# Header navigation links
-aux_links:
-  "Full Compact":
-    - "/brakeandturn.github.io/compact-full"
-  "Companion Docs":
-    - "/brakeandturn.github.io/companions"
-  "Feedback":
-    - "/brakeandturn.github.io/feedback"
-
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-
-# Exclude build clutter
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -40,3 +25,4 @@ exclude:
   - README.md
   - LICENSE
   - .gitignore
+
