@@ -35,7 +35,10 @@ exclude:
 aux_links:
   "Full Compact":
     - "/brakeandturn/compact-full"
+  "Companion Docs":
+    - "/brakeandturn/companions"
   "Living Checklist":
     - "/brakeandturn/companions/living-checklist"
   "Feedback":
     - "/brakeandturn/feedback"
+
