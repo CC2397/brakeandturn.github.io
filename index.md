@@ -38,7 +38,7 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 
 ---
 
-📘 [Read the Full Compact →](/compact-full)
+📘 [Read the Full Compact →](compact-full)
 
 ---
 
