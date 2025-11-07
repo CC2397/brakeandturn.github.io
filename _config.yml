@@ -32,13 +32,18 @@ exclude:
   - .gitignore
 
 # Navigation / header links
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: "https://github.com/cc2397/brakeandturn"
+
+# Header links for Cayman theme
 aux_links:
   "Full Compact":
-    - "/brakeandturn/compact-full"
-  "Companion Docs":
-    - "/brakeandturn/companions"
+    - "https://cc2397.github.io/brakeandturn/compact-full"
   "Living Checklist":
-    - "/brakeandturn/companions/living-checklist"
+    - "https://cc2397.github.io/brakeandturn/companions/living-checklist"
   "Feedback":
-    - "/brakeandturn/feedback"
+    - "https://cc2397.github.io/brakeandturn/feedback"
+
 
