@@ -30,3 +30,12 @@ exclude:
   - README.md
   - LICENSE
   - .gitignore
+
+# Navigation / header links
+aux_links:
+  "Full Compact":
+    - "/brakeandturn/compact-full"
+  "Living Checklist":
+    - "/brakeandturn/companions/living-checklist"
+  "Feedback":
+    - "/brakeandturn/feedback"
