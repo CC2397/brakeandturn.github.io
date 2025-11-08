@@ -3,6 +3,8 @@ title: "Brake & Turn Compact — Full Brief"
 layout: default
 ---
 
+{% include nav.html %}
+
 # The Brake & Turn Compact — Full Brief
 
 **We refuse the myth of inevitability.**  
