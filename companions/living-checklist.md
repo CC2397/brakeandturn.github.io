@@ -4,6 +4,8 @@ layout: default
 nav_order: 2
 ---
 
+{% include nav.html %}
+
 # Brake & Turn — Living Checklist  
 *A living reference for decentralized, human–AI symbiosis initiatives.*
 
