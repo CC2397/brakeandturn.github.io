@@ -1,4 +1,6 @@
 ---
+{% include nav.html %}
+
 title: "Brake & Turn Compact"
 layout: default
 ---
