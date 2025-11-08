@@ -1,6 +1,7 @@
 ---
 title: "Parallel Path Strategy"
 layout: default
+permalink: /companions/parallel-path-strategy/
 ---
 
 {% include nav.html %}
