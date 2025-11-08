@@ -24,7 +24,7 @@ Each document is public-domain, continuously editable, and intended for adaptati
 A working audit and reflection tool for organizations or teams implementing the Compact.  
 Use it to score AI systems, energy use, and cultural alignment; update quarterly.
 
-### 2. [**Parallel Path Strategy**](_coming-soon)
+### 2. [**Parallel Path Strategy**](parallel-path-strategy)
 Outlines transitional infrastructure patterns for civic, financial, and community systems that reduce dependence on centralized AI pipelines.
 
 ### 3. [**Underwriting Addendum**](_coming-soon)
