@@ -185,4 +185,9 @@ Place all artifacts in your public repo (or page) for reproducibility.
 **CC0 / Public Domain** — copy, adapt, rehost freely.  
 Alignment belongs to the commons.
 
-> **Print:** [Download PDF](/brakeandturn/assets/pdfs/BrakeAndTurn_ParallelPathStrategy.pdf)
+> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ParallelPathStrategy_v1.pdf)
+
+### Downloads
+<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ParallelPathStrategy_v1.pdf" target="_blank" rel="noopener">
+Download PDF (Letter)
+</a></p>
