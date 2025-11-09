@@ -49,12 +49,5 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 
 > **Print:** [Condensed Handout (2-Sided)]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CondensedHandout_v1.pdf)
 
-### Printables
-<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CondensedHandout_v1.pdf" target="_blank" rel="noopener">
-Condensed Handout (2-Sided PDF)
-</a></p>
-
-
-
 
 
