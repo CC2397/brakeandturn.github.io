@@ -185,3 +185,4 @@ Place all artifacts in your public repo (or page) for reproducibility.
 **CC0 / Public Domain** — copy, adapt, rehost freely.  
 Alignment belongs to the commons.
 
+> **Print:** [Download PDF](/brakeandturn/assets/pdfs/BrakeAndTurn_ParallelPathStrategy.pdf)
