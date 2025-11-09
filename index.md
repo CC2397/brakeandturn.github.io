@@ -47,7 +47,10 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 *(Released to the Public Domain under CC0 1.0 Universal. Freely share, print, and adapt.)*  
 **Human intent. AI precision. Shared stewardship.**
 
-> **Print:** [Condensed Handout (2-Sided)]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CondensedHandout_v1.pdf)
+### 🖨️ Print & Share
+> **Download PDF (Letter, v1)**  
+> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v1.pdf){:target="_blank" rel="noopener"}  
+> Freely share, print, or adapt under CC0 / Public Domain.
 
 
 
