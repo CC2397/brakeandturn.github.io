@@ -46,3 +46,4 @@ All verified contributions will remain in the **Public Domain (CC0)**.
 ### 🕊️ License
 **CC0 / Public Domain — Freely copy, adapt, print, or rehost.**
 
+> **Print:** [Companions Index (PDF)](/brakeandturn/assets/pdfs/BrakeAndTurn_CompanionsIndex.pdf)
