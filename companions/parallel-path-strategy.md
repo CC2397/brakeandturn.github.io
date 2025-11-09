@@ -187,7 +187,3 @@ Alignment belongs to the commons.
 
 > **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ParallelPathStrategy_v1.pdf)
 
-### Downloads
-<p><a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_ParallelPathStrategy_v1.pdf" target="_blank" rel="noopener">
-Download PDF (Letter)
-</a></p>
