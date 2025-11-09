@@ -95,9 +95,9 @@ Each domain scored **0–5** (0 = absent, 5 = fully achieved).
 **License:** CC0 / Public Domain  
 Freely copy, adapt, and re-host for local governance, enterprise audits, or academic study.
 
-> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v3.pdf)
+> **Print:** [Download PDF]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v1.pdf)
 
 ### Downloads
-- <a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v3.pdf" target="_blank" rel="noopener">
+- <a class="btn" href="{{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v1.pdf" target="_blank" rel="noopener">
   Download PDF (Letter)
   </a>
