@@ -49,7 +49,7 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 
 ### 🖨️ Print & Share
 > **Download PDF (Letter, v1)**  
-> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_LivingChecklist_v1.pdf){:target="_blank" rel="noopener"}  
+> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CondensedHandout_v1.pdf){:target="_blank" rel="noopener"}  
 > Freely share, print, or adapt under CC0 / Public Domain.
 
 
