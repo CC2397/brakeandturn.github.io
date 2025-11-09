@@ -47,5 +47,6 @@ We commit to brake the runaway scaling of centralized, extractive AI and to turn
 *(Released to the Public Domain under CC0 1.0 Universal. Freely share, print, and adapt.)*  
 **Human intent. AI precision. Shared stewardship.**
 
+> **Print:** [Condensed Handout (PDF)](/brakeandturn/assets/pdfs/BrakeAndTurn_CondensedHandout.pdf)
 
 
