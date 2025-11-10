@@ -8,6 +8,8 @@ permalink: /companions/living-checklist/
 # Brake & Turn — Living Checklist  
 *A living reference for decentralized, human–AI symbiosis initiatives.*
 
+🔗 **See also:** [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
+
 ---
 
 ### Purpose  
