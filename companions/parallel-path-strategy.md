@@ -11,7 +11,7 @@ permalink: /companions/parallel-path-strategy/
 
 This guide translates the Compact into **deployable patterns** that communities, co-ops, universities, and municipal partners can run **in parallel** to today’s centralized stacks—reducing dependency while improving reliability, transparency, and stewardship.
 
-🔗 See also: [Living Checklist](living-checklist) · [Companion Index](./) · [Feedback](../feedback)
+🔗 See also: [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
 
 ---
 
@@ -63,7 +63,7 @@ This guide translates the Compact into **deployable patterns** that communities,
 
 **Ingredients**
 - Templates: Procurement Rider + Underwriting Addendum (Compact)
-- Scoring: [Living Checklist](living-checklist)
+- Scoring: [Living Checklist]({{ site.baseurl }}/companions/living-checklist/)
 - Ledger: Public GitHub/portal with vendor disclosures & contracts
 
 **Living Checklist:** Public ledger, interoperability, community benefit.
@@ -88,7 +88,7 @@ This guide translates the Compact into **deployable patterns** that communities,
 **Phase 0 (0–7 days)**
 - Pick 1 pattern + host team.
 - Stand up repo/site for disclosures.
-- Run the [Living Checklist](living-checklist) baseline.
+- Run the [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) baseline.
 
 **Phase 1 (8–30 days)**
 - Deploy MVP node(s); publish energy + ops metrics.
@@ -115,7 +115,7 @@ This guide translates the Compact into **deployable patterns** that communities,
 - **Community Benefit:** ≥1% net surplus to local training or energy access.
 
 *All templates released CC0. Use and adapt locally.*  
-See: [Feedback](../feedback) to request legal language.
+See: [Feedback]({{ site.baseurl }}/feedback/) to request legal language.
 
 ---
 
@@ -173,7 +173,7 @@ Place all artifacts in your public repo (or page) for reproducibility.
 
 1. Fork this repo and add a **`/examples/<org>/<pattern>`** folder with your configs.  
 2. Open a PR adding your example to the list below.  
-3. Or share via the [Feedback](../feedback) page.
+3. Or share via the [Feedback]({{ site.baseurl }}/feedback/) page.
 
 **Examples Gallery (add yours)**  
 - `examples/city-lib/P1-edge-node/…`  
