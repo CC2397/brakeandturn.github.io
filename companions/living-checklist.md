@@ -1,9 +1,8 @@
 ---
 title: "Brake & Turn — Living Checklist"
 layout: default
-nav_order: 2
+permalink: /companions/living-checklist/
 ---
-
 {% include nav.html %}
 
 # Brake & Turn — Living Checklist  
