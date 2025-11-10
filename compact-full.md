@@ -92,3 +92,8 @@ Carry it forward—quietly, resolutely, together.
 
 *(Public Domain — CC0 1.0 Universal. Freely share, print, and adapt.)*  
 **Human intent. AI precision. Shared stewardship.**
+
+### 🖨️ Print & Share
+> **Download PDF (Letter, v1)**  
+> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CompactFull_v1.pdf){:target="_blank" rel="noopener"}  
+> Freely share, print, or adapt under CC0 / Public Domain.
