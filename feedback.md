@@ -1,8 +1,8 @@
 ---
 title: "Feedback"
 layout: default
+permalink: /feedback/
 ---
-
 {% include nav.html %}
 
 # Share Feedback (Quietly)
