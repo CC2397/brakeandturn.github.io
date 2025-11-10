@@ -11,7 +11,7 @@ permalink: /companions/parallel-path-strategy/
 
 This guide translates the Compact into **deployable patterns** that communities, co-ops, universities, and municipal partners can run **in parallel** to today’s centralized stacks—reducing dependency while improving reliability, transparency, and stewardship.
 
-🔗 See also: [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
+🔗 **See also:** [Living Checklist]({{ site.baseurl }}/companions/living-checklist/) · [Procurement Rider]({{ site.baseurl }}/companions/procurement-rider/) · [Underwriting Addendum]({{ site.baseurl }}/companions/underwriting-addendum/) · [Parallel Path Strategy]({{ site.baseurl }}/companions/parallel-path-strategy/) · [Companion Index]({{ site.baseurl }}/companions/) · [Feedback]({{ site.baseurl }}/feedback/)
 
 ---
 
