@@ -46,4 +46,15 @@ All verified contributions will remain in the **Public Domain (CC0)**.
 ### 🕊️ License
 **CC0 / Public Domain — Freely copy, adapt, print, or rehost.**
 
-> **Print:** [Companions Index (PDF)](/brakeandturn/assets/pdfs/BrakeAndTurn_CompanionsIndex.pdf)
+---
+
+### 🖨️ Print & Share
+> **Download PDF (Letter, v1)**  
+> [Click here to download]({{ site.baseurl }}/assets/pdfs/BrakeAndTurn_CompanionsIndex_v1.pdf){:target="_blank" rel="noopener"}  
+> Freely share, print, or adapt under CC0 / Public Domain.
+
+---
+
+**Brake & Turn — Companion Documents Index**
+
+This printable reference sheet summarizes all current companion documents in the Brake & Turn Compact series, including the Living Checklist, Parallel Path Strategy, Underwriting Addendum, Procurement Rider, Feedback Insert, and Full Compact.
